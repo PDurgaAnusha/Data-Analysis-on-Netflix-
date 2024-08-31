@@ -12,7 +12,8 @@ c. Datasets: Look for publicly available datasets related to Netflix. Websites l
 # 2. Data Cleaning: 
    Clean and preprocess the data to ensure it's ready for analysis. This may involve handling missing values, removing duplicates, and converting data types.
 
-# 3.Exploratory Data Analysis (EDA): Use Python libraries such as Pandas, NumPy, and Matplotlib/Seaborn for EDA. Some analysis ideas include:
+# 3.Exploratory Data Analysis (EDA):
+ Use Python libraries such as Pandas, NumPy, and Matplotlib/Seaborn for EDA. Some analysis ideas include:
 
 Content Analysis: Distribution of movies and TV shows. Genres distribution. Release date analysis. 
 
