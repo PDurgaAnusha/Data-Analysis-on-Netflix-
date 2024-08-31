@@ -30,17 +30,17 @@ Performance Metrics: Trends in subscriber growth. Regional popularity.
 ## 6. Machine Learning: 
   Apply machine learning models if appropriate. For example, you could predict user preferences based on historical data or forecast future trends.
 
-# Recommendations: 
+## Recommendations: 
   Explore the possibility of creating a recommendation system. Collaborative filtering or content-based recommendation systems are common in streaming platforms.
 
-# Dashboard Creation: 
+## Dashboard Creation: 
   Use tools like Plotly Dash or Streamlit to create interactive dashboards to present your findings.
 
-# Challenges: 
+## Challenges: 
   Be aware of challenges related to privacy and data usage policies. Ensure that your analysis complies with legal and ethical considerations.
 
-# Documentation and Reporting:  
+## Documentation and Reporting:  
   Document your code, findings, and methodology. Create a comprehensive report or presentation summarizing your analysis.
 
-# Example Python Libraries:
+## Example Python Libraries:
   Data Handling: Pandas Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-learn, TensorFlow, PyTorch Web Scraping: BeautifulSoup, Selenium
